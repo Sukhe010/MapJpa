@@ -1,7 +1,3 @@
-Got it 👍 — let’s make a **detailed README** for your `MapJpa` project that explains what it is, how to run it locally, how to deploy on Railway, and some notes for future you when you revisit.
-
-Here’s a draft:
-
 ---
 
 # MapJpa
